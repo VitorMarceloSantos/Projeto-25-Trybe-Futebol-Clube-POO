@@ -1,4 +1,4 @@
-<h1 align="center">Projeto 25 - Trybe Futebol Clube</h1>
+<h1 align="center">Projeto 25 - Trybe Futebol Clube - Utilizando POO</h1>
 
 <div>
   Para a realização do projeto, foram utilizadas as seguintes tecnologias: Express, MySql, API RESTful, MSC, Sequelize, NodeJs, TypeScript, POO, Docker, Testes.
